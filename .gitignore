@@ -18,4 +18,7 @@ xml_files/
 json_output/
 *.xml
 *.json
+!examples/
+!examples/**
+!examples/**/*.json
 
